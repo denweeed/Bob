@@ -13,7 +13,7 @@ def bob(question: str):
     elif question.isupper():
         return "wow relax"
     else:
-        return "wothewer"
+        return "wot hewer"
 
 
 if __name__ == '__main__':
